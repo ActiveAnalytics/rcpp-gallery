@@ -12,7 +12,7 @@
  * The Chain Ladder method is an actuarial technique used for projecting incurred insurance claims to their 
  * ultimate loss values. The data exists as claims triangles where the claims for each accounting year 
  * increments down the rows and the claims for each development period increments along the columns.
- * This claims triangle can be represented in a triangular upper matrix (along the anti-diaginal) and the Chain Ladder 
+ * This claims triangle can be represented in a triangular upper matrix (along the anti-diagonal) and the Chain Ladder 
  * technique works by filling in the lower part of the matrix using ratios of claims in previous accounting 
  * years and development periods.
  * 
